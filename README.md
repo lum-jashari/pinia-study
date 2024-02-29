@@ -1,29 +1,47 @@
-# pinia-study
+# Vue.js Pinia Counter App
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a simple counter application developed using Vue.js and the Pinia state management solution. It serves as a learning project to understand and practice state management in Vue.js using Pinia.
 
-## Recommended IDE Setup
+## Features
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+- Increment and decrement the counter value
 
-## Customize configuration
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+## Installation
 
-## Project Setup
+1. Clone the repository:
 
-```sh
-npm install
-```
+   ```bash
+   git clone https://github.com/lum-jashar/pinia-study.git
+   ```
 
-### Compile and Hot-Reload for Development
+2. Navigate to the project directory:
 
-```sh
-npm run dev
-```
+   ```bash
+   cd pinia-study
+   ```
 
-### Compile and Minify for Production
+3. Install dependencies:
 
-```sh
-npm run build
-```
+   ```bash
+   npm install
+   ```
+
+4. Run the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+5. Visit `http://localhost:5743` in your browser to view the application.
+
+## Technologies Used
+
+- Vue.js
+- Pinia
+- CSS
+
+## Acknowledgements
+
+- [Vue.js](https://vuejs.org/)
+- [Pinia](https://pinia.esm.dev/) for state management in Vue.js
